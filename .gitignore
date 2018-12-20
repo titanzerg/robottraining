@@ -1,0 +1,7 @@
+*.png
+env/
+geckodriver.log
+report/
+log.html
+output.xml
+report.html
